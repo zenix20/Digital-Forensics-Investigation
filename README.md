@@ -1,19 +1,21 @@
 # Digital-Forensics-Investigation
 
+# Digital Forensics Investigation Report
+
 ## Overview
 This repository contains a comprehensive digital forensics investigation report covering multiple forensic techniques and tools. The report documents the analysis performed on various digital artifacts, including forensic disk images, memory dumps, network traffic captures, and mobile device images.
 
 ## Table of Contents
-- [Tools Used]
-- [Investigations Conducted]
-  - [Examining a Forensic Image with Autopsy]
-  - [Network Forensics using Wireshark]
-  - [Memory Analysis with Autopsy]
-  - [Email Forensics]
-  - [Android and iPhone Analysis]
-  - [Velociraptor Server Investigation]
-  - [Malware and Bot Investigations]
-
+- [Tools Used](#tools-used)
+- [Investigations Conducted](#investigations-conducted)
+  - [Examining a Forensic Image with Autopsy](#examining-a-forensic-image-with-autopsy)
+  - [Network Forensics using Wireshark](#network-forensics-using-wireshark)
+  - [Memory Analysis with Autopsy](#memory-analysis-with-autopsy)
+  - [Email Forensics](#email-forensics)
+  - [Android and iPhone Analysis](#android-and-iphone-analysis)
+  - [Velociraptor Server Investigation](#velociraptor-server-investigation)
+  - [Malware and Bot Investigations](#malware-and-bot-investigations)
+- [Conclusion](#conclusion)
 
 ## Tools Used
 - **Autopsy** - Open-source digital forensics tool for examining disk images and memory dumps.
