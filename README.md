@@ -1,7 +1,5 @@
 # Digital-Forensics-Investigation
 
-# Digital Forensics Investigation Report
-
 ## Overview
 This repository contains a comprehensive digital forensics investigation report covering multiple forensic techniques and tools. The report documents the analysis performed on various digital artifacts, including forensic disk images, memory dumps, network traffic captures, and mobile device images.
 
